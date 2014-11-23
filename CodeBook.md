@@ -44,7 +44,7 @@ The following files are available for the train and test data. Their description
 
 ## Processing ##
 
-Below are the text descriptions of the processing done within run_process.R.
+Below are the text descriptions of the processing done within run_analysis.R.
 
 ### Step 1 ###
 
@@ -283,7 +283,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 ## Running the Script ##
 
-In order to run the run_process.R script, it is assumed that the script and the directory "UCI HAR Dataset" are in the current working directory.  Assuming that, the script can be run by typing:
+In order to run the run\_analysis.R script, it is assumed that the script and the directory "UCI HAR Dataset" are in the current working directory.  Assuming that, the script can be run by typing:
 
     source('run_analysis.R')
 
